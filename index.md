@@ -1,23 +1,12 @@
 ## Welcome to Open APIs Guard
 
-Open APIs Guard is an open source microservices APIs gateway
+Open APIs Guard is an Open Source API gateway and Microservices management solutions. 
 
-### Markdown
+### Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Open APIs Guard is built on top of Java, Spring framework, Apache Cassandra and other open source projects which can be deployed to most of the Java Servlet containers such as Apache Tomcat, Jboss, etc.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -25,10 +14,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenApisGuard/open-apis-guard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
