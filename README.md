@@ -6,6 +6,10 @@ Open APIs Guard is an Open Source API gateway and Microservices management solut
 
 Open APIs Guard is built on top of Java, Spring framework, Apache Cassandra and other open source projects which can be deployed to most of the Java Servlet containers such as Apache Tomcat, Jboss, etc.
 
+### Installation
+
+To install, simply place Root.war to TOMCAT_ROOT/webapps folder and start catalina.
+
 ### API Doc
 ```markdown
 
